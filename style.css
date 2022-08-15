@@ -146,7 +146,7 @@ li a:hover:before{
 
   /* HERO SECTION */
   .hero-section{
-    background-image: url("/assets/images/hero-image.png");
+    background-image: url("./assets/images/hero-image.png");
     background-repeat: no-repeat;
     background-position: center bottom;
     background-size: cover;
@@ -206,7 +206,7 @@ li a:hover:before{
 
 .item-1{
   width: 24.375rem;
-  background-image: url(/assets/images/model-man.png);
+  background-image: url(./assets/images/model-man.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -226,7 +226,7 @@ li a:hover:before{
 
 .item-2{
   min-height: 18.1rem;
-  background-image: url(/assets/images/barber-man.png);
+  background-image: url(./assets/images/barber-man.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -241,7 +241,7 @@ li a:hover:before{
 
 .item-3{
   min-height: 18.1rem;
-  background-image: url(/assets/images/corte-man.png);
+  background-image: url(./assets/images/corte-man.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -255,7 +255,7 @@ li a:hover:before{
 
 .item-4{
   width: 24.375rem;
-  background-image: url(/assets/images/exfolation-man.png);
+  background-image: url(./assets/images/exfolation-man.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -271,7 +271,7 @@ li a:hover:before{
 
 .item-5{
   width: 24.375rem;
-  background-image: url(/assets/images/model-women.png);
+  background-image: url(./assets/images/model-women.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -286,7 +286,7 @@ li a:hover:before{
 
 .item-6{
   min-height: 11.875rem;
-  background-image: url(/assets/images/peinados-specials-women.png);
+  background-image: url(./assets/images/peinados-specials-women.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -301,7 +301,7 @@ li a:hover:before{
 
 .item-7{
   min-height: 11.875rem;
-  background-image: url(/assets/images/color-women.png);
+  background-image: url(./assets/images/color-women.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -316,7 +316,7 @@ li a:hover:before{
 
 .item-8{
   min-height: 11.875rem;
-  background-image: url(/assets/images/corte-women.png);
+  background-image: url(./assets/images/corte-women.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -332,7 +332,7 @@ li a:hover:before{
 .item-9{
   max-width: 24.375rem;
   min-height: 18.125rem;
-  background-image: url(/assets/images/manicure-pedicure.png);
+  background-image: url(./assets/images/manicure-pedicure.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -348,7 +348,7 @@ li a:hover:before{
 .item-10{
   max-width: 24.375rem;
   min-height: 18.125rem;
-  background-image: url(/assets/images/depilacion.png);
+  background-image: url(./assets/images/depilacion.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -376,7 +376,7 @@ li a:hover:before{
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-image: url("/assets/images/background-service-specials.png");
+  background-image: url("./assets/images/background-service-specials.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -488,7 +488,7 @@ li a:hover:before{
   /*HERO SECTION*/
   .hero-section{
     min-height: 25rem;
-    background-image: url("/assets/images/hero-image-tablet.png");
+    background-image: url("./assets/images/hero-image-tablet.png");
     background-position: center left;
   }
 
@@ -752,7 +752,7 @@ li a:hover:before{
   /*HERO SECTION*/
   .hero-section{
     min-height: 31.25rem;
-    background-image: url("/assets/images/hero-image-mobile.png");
+    background-image: url("./assets/images/hero-image-mobile.png");
     background-position: center left;
   }
   
@@ -795,7 +795,7 @@ li a:hover:before{
 
  /* FOOTER SECTION */
  .footer-section{
-  background-image: url("/assets/images/background-service-specials-mobile.png");
+  background-image: url("./assets/images/background-service-specials-mobile.png");
   padding: 30px 0px;
  }
 
